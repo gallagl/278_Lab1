@@ -41,48 +41,40 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/galla/Desktop/278$ Codebase/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target 278_Codebase
+# Object build statements for EXECUTABLE target main
 
 
 #############################################
-# Order-only phony target for 278_Codebase
+# Order-only phony target for main
 
-build cmake_object_order_depends_target_278_Codebase: phony || CMakeFiles/278_Codebase.dir
+build cmake_object_order_depends_target_main: phony || CMakeFiles/main.dir
 
-build CMakeFiles/278_Codebase.dir/main.cpp.obj: CXX_COMPILER__278_Codebase_Debug C$:/Users/galla/Desktop/278$ Codebase/main.cpp || cmake_object_order_depends_target_278_Codebase
-  DEP_FILE = CMakeFiles\278_Codebase.dir\main.cpp.obj.d
+build CMakeFiles/main.dir/main.cpp.obj: CXX_COMPILER__main_Debug C$:/Users/galla/Desktop/278$ Codebase/main.cpp || cmake_object_order_depends_target_main
+  DEP_FILE = CMakeFiles\main.dir\main.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\278_Codebase.dir
-  OBJECT_FILE_DIR = CMakeFiles\278_Codebase.dir
-  TARGET_COMPILE_PDB = CMakeFiles\278_Codebase.dir\
-  TARGET_PDB = 278_Codebase.pdb
-
-build CMakeFiles/278_Codebase.dir/readnumsv6.c.obj: C_COMPILER__278_Codebase_Debug C$:/Users/galla/Desktop/278$ Codebase/readnumsv6.c || cmake_object_order_depends_target_278_Codebase
-  DEP_FILE = CMakeFiles\278_Codebase.dir\readnumsv6.c.obj.d
-  FLAGS = -g
-  OBJECT_DIR = CMakeFiles\278_Codebase.dir
-  OBJECT_FILE_DIR = CMakeFiles\278_Codebase.dir
-  TARGET_COMPILE_PDB = CMakeFiles\278_Codebase.dir\
-  TARGET_PDB = 278_Codebase.pdb
+  OBJECT_DIR = CMakeFiles\main.dir
+  OBJECT_FILE_DIR = CMakeFiles\main.dir
+  TARGET_COMPILE_PDB = CMakeFiles\main.dir\
+  TARGET_PDB = main.pdb
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target 278_Codebase
+# Link build statements for EXECUTABLE target main
 
 
 #############################################
-# Link the executable 278_Codebase.exe
+# Link the executable main.exe
 
-build 278_Codebase.exe: CXX_EXECUTABLE_LINKER__278_Codebase_Debug CMakeFiles/278_Codebase.dir/main.cpp.obj CMakeFiles/278_Codebase.dir/readnumsv6.c.obj
+build main.exe: CXX_EXECUTABLE_LINKER__main_Debug CMakeFiles/main.dir/main.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\278_Codebase.dir
+  OBJECT_DIR = CMakeFiles\main.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\278_Codebase.dir\
-  TARGET_FILE = 278_Codebase.exe
-  TARGET_IMPLIB = lib278_Codebase.dll.a
-  TARGET_PDB = 278_Codebase.pdb
+  TARGET_COMPILE_PDB = CMakeFiles\main.dir\
+  TARGET_FILE = main.exe
+  TARGET_IMPLIB = libmain.dll.a
+  TARGET_PDB = main.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target makenums
@@ -614,13 +606,13 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build 278_Codebase: phony 278_Codebase.exe
-
 build WALKPTRN: phony WALKPTRN.exe
 
 build linkedListlib: phony linkedListlib.exe
 
 build linkedlist: phony linkedlist.exe
+
+build main: phony main.exe
 
 build makenums: phony makenums.exe
 
@@ -652,7 +644,7 @@ build readtextv3: phony readtextv3.exe
 #############################################
 # Folder: C:/Users/galla/Desktop/278 Codebase/cmake-build-debug
 
-build all: phony 278_Codebase.exe makenums.exe rdchrbychr.exe readnumsv2.exe readnumsv3.exe readnumsv4.exe readnumsv5.exe readtextv1.exe readtextv2.exe readtextv3.exe WALKPTRN.exe pointers.exe linkedlist.exe linkedListlib.exe readnumsv6.exe
+build all: phony main.exe makenums.exe rdchrbychr.exe readnumsv2.exe readnumsv3.exe readnumsv4.exe readnumsv5.exe readtextv1.exe readtextv2.exe readtextv3.exe WALKPTRN.exe pointers.exe linkedlist.exe linkedListlib.exe readnumsv6.exe
 
 # =============================================================================
 # Built-in targets

@@ -1,17 +1,17 @@
-C:/Users/Liam/Desktop/278_Lab1/cmake-build-debug/CMakeFiles/main.dir
-C:/Users/Liam/Desktop/278_Lab1/cmake-build-debug/CMakeFiles/makenums.dir
-C:/Users/Liam/Desktop/278_Lab1/cmake-build-debug/CMakeFiles/rdchrbychr.dir
-C:/Users/Liam/Desktop/278_Lab1/cmake-build-debug/CMakeFiles/readnumsv2.dir
-C:/Users/Liam/Desktop/278_Lab1/cmake-build-debug/CMakeFiles/readnumsv3.dir
-C:/Users/Liam/Desktop/278_Lab1/cmake-build-debug/CMakeFiles/readnumsv4.dir
-C:/Users/Liam/Desktop/278_Lab1/cmake-build-debug/CMakeFiles/readnumsv5.dir
-C:/Users/Liam/Desktop/278_Lab1/cmake-build-debug/CMakeFiles/readtextv1.dir
-C:/Users/Liam/Desktop/278_Lab1/cmake-build-debug/CMakeFiles/readtextv2.dir
-C:/Users/Liam/Desktop/278_Lab1/cmake-build-debug/CMakeFiles/readtextv3.dir
-C:/Users/Liam/Desktop/278_Lab1/cmake-build-debug/CMakeFiles/WALKPTRN.dir
-C:/Users/Liam/Desktop/278_Lab1/cmake-build-debug/CMakeFiles/pointers.dir
-C:/Users/Liam/Desktop/278_Lab1/cmake-build-debug/CMakeFiles/linkedlist.dir
-C:/Users/Liam/Desktop/278_Lab1/cmake-build-debug/CMakeFiles/linkedListlib.dir
-C:/Users/Liam/Desktop/278_Lab1/cmake-build-debug/CMakeFiles/readnumsv6.dir
-C:/Users/Liam/Desktop/278_Lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Liam/Desktop/278_Lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/galla/Desktop/278 Codebase/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/galla/Desktop/278 Codebase/cmake-build-debug/CMakeFiles/makenums.dir
+C:/Users/galla/Desktop/278 Codebase/cmake-build-debug/CMakeFiles/rdchrbychr.dir
+C:/Users/galla/Desktop/278 Codebase/cmake-build-debug/CMakeFiles/readnumsv2.dir
+C:/Users/galla/Desktop/278 Codebase/cmake-build-debug/CMakeFiles/readnumsv3.dir
+C:/Users/galla/Desktop/278 Codebase/cmake-build-debug/CMakeFiles/readnumsv4.dir
+C:/Users/galla/Desktop/278 Codebase/cmake-build-debug/CMakeFiles/readnumsv5.dir
+C:/Users/galla/Desktop/278 Codebase/cmake-build-debug/CMakeFiles/readtextv1.dir
+C:/Users/galla/Desktop/278 Codebase/cmake-build-debug/CMakeFiles/readtextv2.dir
+C:/Users/galla/Desktop/278 Codebase/cmake-build-debug/CMakeFiles/readtextv3.dir
+C:/Users/galla/Desktop/278 Codebase/cmake-build-debug/CMakeFiles/WALKPTRN.dir
+C:/Users/galla/Desktop/278 Codebase/cmake-build-debug/CMakeFiles/pointers.dir
+C:/Users/galla/Desktop/278 Codebase/cmake-build-debug/CMakeFiles/linkedlist.dir
+C:/Users/galla/Desktop/278 Codebase/cmake-build-debug/CMakeFiles/linkedListlib.dir
+C:/Users/galla/Desktop/278 Codebase/cmake-build-debug/CMakeFiles/readnumsv6.dir
+C:/Users/galla/Desktop/278 Codebase/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/galla/Desktop/278 Codebase/cmake-build-debug/CMakeFiles/rebuild_cache.dir

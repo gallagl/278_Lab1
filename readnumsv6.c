@@ -171,8 +171,6 @@ int deleteNode(int d){
     }
 }
 
-
-
 void print_linked_list (void)
 // Routine prints data contents of linked list
 {
@@ -236,20 +234,17 @@ void main (void)
             case 'f':
                 insert_data_at_front(d);
                 printf ("Received %c %d\n", ch, d);
-                printf ("HEAD: %4d\n", phead->datavalue);
                 break;
             case 'B':
             case 'b':
                 insert_data_at_end(d);
                 printf ("Received %c %d\n", ch, d);
-                printf ("HEAD: %4d\n", phead->datavalue);
                 break;
             case 'D':
             case 'd':
                 int b = deleteNode(d);
                 if (b == 1){
                     printf("Deleted %c %d\n", ch, d);
-                    printf ("HEAD: %4d\n", phead->datavalue);
                 }
 
                 break;
