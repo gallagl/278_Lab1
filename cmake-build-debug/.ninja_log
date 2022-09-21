@@ -1,0 +1,12 @@
+# ninja log v5
+183	285	6854875960318843	readnumsv6.exe	2d28290991319a2e
+0	404	6850389086913043	CMakeFiles/278_Codebase.dir/main.cpp.obj	d7db00b0eb08a1f9
+0	79	6850732801938380	CMakeFiles/readnumsv5.dir/readnumsv5.c.obj	2dee97f5bc7d6ced
+406	544	6850389088279368	278_Codebase.exe	15f86e87948962ee
+76	181	6850715648893889	assignment1.exe	c532ed79f11b5cc0
+2	76	6851600952093120	CMakeFiles/linkedListlib.dir/linkedListlib.c.obj	e003634b40be83bc
+77	180	6851600953102056	linkedListlib.exe	be0131ed19b95e16
+7	182	6854875959334484	CMakeFiles/readnumsv6.dir/readnumsv6.c.obj	640e5f8eaaa1b3c0
+80	184	6850732802948309	readnumsv5.exe	6eaa4c78cee7d4ab
+2	91	6854880779790728	CMakeFiles/readnumsv6.dir/readnumsv6.c.obj	a86c0ba879c21a51
+92	202	6854880780858052	readnumsv6.exe	2d28290991319a2e
