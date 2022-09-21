@@ -151,7 +151,7 @@ int deleteNode(int d){
                 tempdel->pnextnode = curr->pnextnode;
                 free(curr);
                 curr = tempdel->pnextnode;
-                pback = curr;
+                pback = tempdel;
                 return 1;
             }
             // Otherwise:
@@ -236,17 +236,20 @@ void main (void)
             case 'f':
                 insert_data_at_front(d);
                 printf ("Received %c %d\n", ch, d);
+                printf ("HEAD: %4d\n", phead->datavalue);
                 break;
             case 'B':
             case 'b':
                 insert_data_at_end(d);
                 printf ("Received %c %d\n", ch, d);
+                printf ("HEAD: %4d\n", phead->datavalue);
                 break;
             case 'D':
             case 'd':
                 int b = deleteNode(d);
                 if (b == 1){
                     printf("Deleted %c %d\n", ch, d);
+                    printf ("HEAD: %4d\n", phead->datavalue);
                 }
 
                 break;

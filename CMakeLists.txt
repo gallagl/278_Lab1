@@ -3,7 +3,7 @@ project(278_Codebase)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(278_Codebase main.cpp readnumsv6.c)
+add_executable(main main.cpp)
 add_executable(makenums makenums.c)
 add_executable(rdchrbychr rdchrbychr.c)
 add_executable(readnumsv2 readnumsv2.c)
