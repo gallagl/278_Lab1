@@ -169,7 +169,7 @@ int deleteNode(int d){
     }
 }
 
-void print_linked_list (void)
+void print_linked_list (void) //test123
 // Routine prints data contents of linked list
 {
     struct node	*ptemp;		// temporary pointer used to traverse list
