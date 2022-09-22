@@ -157,21 +157,19 @@ int deleteNode(int d){
             // Otherwise:
             else{
                 // If the
-                if (tempdel->pnextnode->pnextnode != NULL){
+                if (curr->pnextnode != NULL){
                     tempdel=tempdel->pnextnode;
                 }
                 else{
                     printf("%d does not exist in the linked list.\n",d);
                     return 0;
                 }
-
             }
         };
-        
     }
 }
 
-void print_linked_list (void)
+void print_linked_list (void) //test123
 // Routine prints data contents of linked list
 {
     struct node	*ptemp;		// temporary pointer used to traverse list
