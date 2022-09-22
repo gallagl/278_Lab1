@@ -1,0 +1,186 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "278_Codebase",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "WALKPTRN::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-WALKPTRN-Debug-d74b3584e090117ca7fa.json",
+					"name" : "WALKPTRN",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "linkedListlib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linkedListlib-Debug-17680e7054a94a63c1fd.json",
+					"name" : "linkedListlib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "linkedlist::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linkedlist-Debug-0dc0bff49bda93467994.json",
+					"name" : "linkedlist",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-121b5cb3636252c3694d.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "makenums::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-makenums-Debug-3d1a8a99b34c9b04a000.json",
+					"name" : "makenums",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pointers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pointers-Debug-cde4c31ce90b3a00678b.json",
+					"name" : "pointers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rdchrbychr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rdchrbychr-Debug-6c3942a915cb09a48e88.json",
+					"name" : "rdchrbychr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "readnumsv2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-readnumsv2-Debug-b02e7af68b4a316a0a8b.json",
+					"name" : "readnumsv2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "readnumsv3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-readnumsv3-Debug-687534621d49813c9f61.json",
+					"name" : "readnumsv3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "readnumsv4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-readnumsv4-Debug-3722c4ce1a41326c15ea.json",
+					"name" : "readnumsv4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "readnumsv5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-readnumsv5-Debug-797259740009bd5ef678.json",
+					"name" : "readnumsv5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "readnumsv6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-readnumsv6-Debug-2ba69c5a29c1722cddf5.json",
+					"name" : "readnumsv6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "readtextv1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-readtextv1-Debug-5f2e9807c1db1f86c06b.json",
+					"name" : "readtextv1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "readtextv2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-readtextv2-Debug-9a6bc797713d52ed10ff.json",
+					"name" : "readtextv2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "readtextv3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-readtextv3-Debug-ff8fd1f87d8d876e4b19.json",
+					"name" : "readtextv3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Liam/Desktop/278_Lab1/cmake-build-debug",
+		"source" : "C:/Users/Liam/Desktop/278_Lab1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

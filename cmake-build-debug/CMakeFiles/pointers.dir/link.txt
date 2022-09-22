@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\pointers.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\pointers.dir/objects.a @CMakeFiles\pointers.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\pointers.dir/objects.a -Wl,--no-whole-archive -o pointers.exe -Wl,--out-implib,libpointers.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\pointers.dir\linklibs.rsp
